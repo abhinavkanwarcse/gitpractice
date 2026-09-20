@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 hello fix here
-=======
-hello friend how are you?
->>>>>>> stock
