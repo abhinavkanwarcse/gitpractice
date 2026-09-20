@@ -1,2 +1,3 @@
 invested 500 rs
 invested again
+now turn into sip
