@@ -1,0 +1,2 @@
+invested 500 rs
+invested again
